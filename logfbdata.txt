@@ -1,0 +1,767 @@
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1426181407683350
+                    [time] => 1482703195621
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1490086344352821
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 1426181407683350
+                                        )
+
+                                    [timestamp] => 1482703195586
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.1482703195586:de50cc1d34
+                                            [seq] => 306538
+                                            [text] => send image
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [recipient_id] => 1490086344352821
+    [message_id] => mid.1482703203509:842a90f318
+)
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1426181407683350
+                    [time] => 1482703203879
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1426181407683350
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 1490086344352821
+                                        )
+
+                                    [timestamp] => 1482703203509
+                                    [message] => Array
+                                        (
+                                            [is_echo] => 1
+                                            [app_id] => 1165318586915407
+                                            [mid] => mid.1482703203509:842a90f318
+                                            [seq] => 306539
+                                            [attachments] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [type] => image
+                                                            [payload] => Array
+                                                                (
+                                                                    [url] => https://scontent.xx.fbcdn.net/v/t34.0-12/15731226_1428989284069229_1710092120_n.png?_nc_ad=z-m&oh=97bbc8b7fc4d577b01af60f30a4c9a86&oe=5862C0EE
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1426181407683350
+                    [time] => 1482703203919
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1490086344352821
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 1426181407683350
+                                        )
+
+                                    [timestamp] => 1482703203918
+                                    [delivery] => Array
+                                        (
+                                            [mids] => Array
+                                                (
+                                                    [0] => mid.1482703203509:842a90f318
+                                                )
+
+                                            [watermark] => 1482703203509
+                                            [seq] => 0
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1426181407683350
+                    [time] => 1482703205984
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1490086344352821
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 1426181407683350
+                                        )
+
+                                    [timestamp] => 1482703205984
+                                    [delivery] => Array
+                                        (
+                                            [mids] => Array
+                                                (
+                                                    [0] => mid.1482703203509:842a90f318
+                                                )
+
+                                            [watermark] => 1482703203509
+                                            [seq] => 0
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1426181407683350
+                    [time] => 1482703210553
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1490086344352821
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 1426181407683350
+                                        )
+
+                                    [timestamp] => 1482703210552
+                                    [read] => Array
+                                        (
+                                            [watermark] => 1482703203509
+                                            [seq] => 0
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1426181407683350
+                    [time] => 1482703214494
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1490086344352821
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 1426181407683350
+                                        )
+
+                                    [timestamp] => 1482703214453
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.1482703214453:c2ad911239
+                                            [seq] => 306542
+                                            [text] => send audio
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [message] => (#100) Failed to fetch the file from the url
+            [type] => OAuthException
+            [code] => 100
+            [error_subcode] => 2018008
+            [fbtrace_id] => AVphBIIjs13
+        )
+
+)
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1426181407683350
+                    [time] => 1482703257961
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1490086344352821
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 1426181407683350
+                                        )
+
+                                    [timestamp] => 1482703257922
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.1482703257922:c74eb29b23
+                                            [seq] => 306544
+                                            [text] => send file
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1426181407683350
+                    [time] => 1482703259095
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1426181407683350
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 1490086344352821
+                                        )
+
+                                    [timestamp] => 1482703258739
+                                    [message] => Array
+                                        (
+                                            [is_echo] => 1
+                                            [app_id] => 1165318586915407
+                                            [mid] => mid.1482703258739:ae29d6ac22
+                                            [seq] => 306545
+                                            [text] => Hmm.. Still learning: send file
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1426181407683350
+                    [time] => 1482703261756
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1490086344352821
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 1426181407683350
+                                        )
+
+                                    [timestamp] => 1482703261755
+                                    [delivery] => Array
+                                        (
+                                            [mids] => Array
+                                                (
+                                                    [0] => mid.1482703258739:ae29d6ac22
+                                                )
+
+                                            [watermark] => 1482703258739
+                                            [seq] => 0
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1426181407683350
+                    [time] => 1482703259145
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1490086344352821
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 1426181407683350
+                                        )
+
+                                    [timestamp] => 1482703259144
+                                    [delivery] => Array
+                                        (
+                                            [mids] => Array
+                                                (
+                                                    [0] => mid.1482703258739:ae29d6ac22
+                                                )
+
+                                            [watermark] => 1482703258739
+                                            [seq] => 0
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1426181407683350
+                    [time] => 1482703264101
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1490086344352821
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 1426181407683350
+                                        )
+
+                                    [timestamp] => 1482703264100
+                                    [read] => Array
+                                        (
+                                            [watermark] => 1482703258739
+                                            [seq] => 0
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1426181407683350
+                    [time] => 1482703264184
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1490086344352821
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 1426181407683350
+                                        )
+
+                                    [timestamp] => 1482703264143
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.1482703264143:3d03102469
+                                            [seq] => 306548
+                                            [text] => send receipt
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [recipient_id] => 1490086344352821
+    [message_id] => mid.1482703267255:9a0ecdd117
+)
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1426181407683350
+                    [time] => 1482703267623
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1426181407683350
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 1490086344352821
+                                        )
+
+                                    [timestamp] => 1482703267255
+                                    [message] => Array
+                                        (
+                                            [is_echo] => 1
+                                            [app_id] => 1165318586915407
+                                            [mid] => mid.1482703267255:9a0ecdd117
+                                            [seq] => 306549
+                                            [attachments] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [type] => file
+                                                            [payload] => Array
+                                                                (
+                                                                    [url] => https://cdn.fbsbx.com/v/t59.2708-21/15659337_1428989337402557_4590363820790120448_n.txt/samplefile.txt?oh=0b81029d94c1b62bef720de9e84cd909&oe=5862D44C
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1426181407683350
+                    [time] => 1482703267650
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1490086344352821
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 1426181407683350
+                                        )
+
+                                    [timestamp] => 1482703267649
+                                    [delivery] => Array
+                                        (
+                                            [mids] => Array
+                                                (
+                                                    [0] => mid.1482703267255:9a0ecdd117
+                                                )
+
+                                            [watermark] => 1482703267255
+                                            [seq] => 0
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1426181407683350
+                    [time] => 1482703267744
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1490086344352821
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 1426181407683350
+                                        )
+
+                                    [timestamp] => 1482703267743
+                                    [delivery] => Array
+                                        (
+                                            [mids] => Array
+                                                (
+                                                    [0] => mid.1482703267255:9a0ecdd117
+                                                )
+
+                                            [watermark] => 1482703267255
+                                            [seq] => 0
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1426181407683350
+                    [time] => 1482703278144
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1490086344352821
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 1426181407683350
+                                        )
+
+                                    [timestamp] => 1482703278143
+                                    [read] => Array
+                                        (
+                                            [watermark] => 1482703267255
+                                            [seq] => 0
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1426181407683350
+                    [time] => 1482703299849
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1490086344352821
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 1426181407683350
+                                        )
+
+                                    [timestamp] => 1482703299811
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.1482703299811:af7c88d955
+                                            [seq] => 306552
+                                            [text] => send audio
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [message] => (#100) Failed to fetch the file from the url
+            [type] => OAuthException
+            [code] => 100
+            [error_subcode] => 2018008
+            [fbtrace_id] => BkJnZaNruzD
+        )
+
+)
